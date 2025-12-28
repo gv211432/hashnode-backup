@@ -1,6 +1,7 @@
 ---
 title: "Implementing Robust Disaster Recovery for CI/CD Pipelines in an Unpredictable 2025"
-seoDescription: "Learn to implement robust Disaster Recovery for CI/CD pipelines in 2025. Secure your DevOps with resilient architecture, data strategies, automation, and testing."
+seoTitle: "Robust Disaster Recovery for CI/CD Pipelines"
+seoDescription: "Implement robust Disaster Recovery for CI/CD pipelines in 2025. Secure your DevOps with resilient architecture, data strategies, automation, and testing."
 datePublished: Sun Dec 28 2025 00:04:33 GMT+0000 (Coordinated Universal Time)
 cuid: cmjoyw8lb000102l89b3m97sk
 slug: implementing-robust-disaster-recovery-for-cicd-pipelines-in-an-unpredictable-2025
